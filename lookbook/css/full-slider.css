@@ -64,4 +64,8 @@ p {
 .carousel-inner {
 	background-color:#dca4a3;
 }
+
+.carousel-caption {
+    font-family:'Hind Madurai', sans-serif;
+}
    
