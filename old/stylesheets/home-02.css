@@ -1,0 +1,18 @@
+.intro-bg{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-image: url(http://www.octaviocestari.com/octaviocestari/images/0002.jpg);
+	background-size: cover;
+}
+.ticker-container .ticker-emblem{
+	margin-bottom: 20px;
+}
+.ticker-container h2{
+	font-family: "Montserrat",sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 41px;
+    padding: 7px 7px 7px 15px;
+    text-transform: uppercase;
+}
