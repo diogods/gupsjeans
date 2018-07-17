@@ -161,32 +161,52 @@ header.masthead .bg-circle-4 {
 
 }
 .bgimg-1 {
-  background-color:#dce8a8;
+  background-color:#b3b3d9;
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-color:#fbaf61;
+  background-color:#6646a4;
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-color:#f7617a;
+  background-color:#bd496c;
   min-height: 400px;
 }
 
 .bgimg-4 {
-  background-color:#d5b8b0;
+  background-color:#93b4db;
   min-height: 400px;
 }
 
 .bgimg-5 {
-  background-color:#f7a89b;
+  background-color:#baceb3;
   min-height: 400px;
 }
 
 .bgimg-6 {
-  background-color:#fed44e;
+  background-color:#697d71;
+  min-height: 400px;
+}
+
+.bgimg-7 {
+  background-color:#f3edef;
+  min-height: 400px;
+}
+
+.bgimg-8 {
+  background-color:#74422f;
+  min-height: 400px;
+}
+
+.bgimg-9 {
+  background-color:#e2c335;
+  min-height: 400px;
+}
+
+.bgimg-10 {
+  background-color:#d1392e;
   min-height: 400px;
 }
 
