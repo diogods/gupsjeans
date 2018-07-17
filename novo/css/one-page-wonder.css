@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato';
+  font-family: 'Hind Madurai', sans-serif;
 }
 
 h1,
@@ -8,8 +8,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Catamaran';
-  font-weight: 800 !important;
+  font-family: 'Bentham', serif;
 }
 
 .btn-xl {
