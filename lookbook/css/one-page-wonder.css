@@ -95,47 +95,47 @@ header.masthead .masthead-content .masthead-subheading {
 }
 
 .bgimg-2 {
-  background-color:#6646a4;
+  background-color:#dce8a8;
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-color:#bd496c;
+  background-color:#fbaf61;
   min-height: 400px;
 }
 
 .bgimg-4 {
-  background-color:#93b4db;
+  background-color:#f7617a;
   min-height: 400px;
 }
 
 .bgimg-5 {
-  background-color:#baceb3;
+  background-color:#d5b8b0;
   min-height: 400px;
 }
 
 .bgimg-6 {
-  background-color:#697d71;
+  background-color:#f7a89b;
   min-height: 400px;
 }
 
 .bgimg-7 {
-  background-color:#f3edef;
+  background-color:#b3b3d9;
   min-height: 400px;
 }
 
 .bgimg-8 {
-  background-color:#74422f;
+  background-color:#dce8a8;
   min-height: 400px;
 }
 
 .bgimg-9 {
-  background-color:#e2c335;
+  background-color:#fbaf61;
   min-height: 400px;
 }
 
 .bgimg-10 {
-  background-color:#d1392e;
+  background-color:#f7617a;
   min-height: 400px;
 }
 
@@ -157,6 +157,16 @@ header.masthead .masthead-content .masthead-subheading {
 
 .img-fluid {
   border: 1px solid #fff;
+}
+
+.caption {
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 20px;
+  bottom: 50px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 12px;
 }
 
 /* Turn off parallax scrolling for tablets and phones */
